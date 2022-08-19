@@ -19,4 +19,7 @@ nav{
     align-items: center;
     border-bottom: 1px solid color#666;
 }
+nav ul {
+    margin-right: 12px;
+}
 
